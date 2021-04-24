@@ -10,6 +10,8 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [x] Python
 
+- [x] Php 7.4
+
 - [ ] C++
 
 - [ ] Lua
@@ -28,7 +30,7 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [x] CSS3
 
-### Framework
+### Frameworks
 
 #### Python web frameworks
 
@@ -39,6 +41,10 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 #### Python test frameworks
 
 - [x] Robot Framework
+
+### Php web frameworks
+
+- [x] Symfony
 
 ### Databases
 
@@ -52,6 +58,22 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [ ] mariaDB
 
+#### Gestion database
+
+- [x] phpMyAdmin
+
+- [x] Adminer
+
+- [ ] DbNinja
+
+- [ ] SQL Buddy
+
+- [ ] MyWebSQL
+
+- [ ] phpMiniAdmin
+
+- [x] MySQL Workbench (--)
+
 ### Conteneurisation
 
 - [x] Docker
@@ -63,6 +85,42 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 - [x] Selenium
 
 - [x] pyautogui
+
+### IDEs
+
+- [ ] Visual Studio
+
+- [x] Webstorm
+
+- [x] Pycharm
+
+- [x] PhpSotrm
+
+- [x] Android Studio
+
+- [x] Eclipse
+
+- [x] Code::Blocks
+
+- [ ] [DataGrip](https://www.jetbrains.com/fr-fr/datagrip/)
+
+- [ ] [GoLand](https://www.jetbrains.com/fr-fr/go/)
+
+### Light IDEs
+
+- [x] VS Code
+
+- [ ] Sublime Text
+
+- [x] Notepad ++
+
+- [x] Repl.it
+
+#### Plugins/ia assisstance for IDEs/light IDE
+
+- [ ] [kite](https://www.kite.com/)
+
+- [ ] 
 
 ## Agile
 
@@ -87,6 +145,8 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 - [x] Godot
 
 - [x] Solar2d
+
+- [ ] MonoDevelop
 
 ### frameworks tried
 
@@ -113,3 +173,15 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 ### Specifics
 
 - [x] Windows registry
+
+## Culture de l'ingenieur
+
+### [Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+Meilleur serie de video de vulgarisation que j'ai pu voir jusqu'a ce jour:
+
+- [ ] [Early Computing #1](https://youtu.be/O5nskjZ_GoI)
+
+- [ ] [Electronic Computing #2](https://youtu.be/LN0ucKNX0hc)
+
+- [ ] [Boolean Logic & Logic Gates #3](https://youtu.be/gI-qXk7XojA)
