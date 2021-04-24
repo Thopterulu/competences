@@ -12,11 +12,33 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [ ] C++
 
+- [ ] Lua
+
+- [ ] C#
+
+- [ ] Powershell
+
+- [x] Javascript (--)
+
+- [x] Typescript(--)
+
 ### languages web
 
 - [x] HTML5
 
 - [x] CSS3
+
+### Framework
+
+#### Python web frameworks
+
+- [x] Flask
+
+- [x] Django(--)
+
+#### Python test frameworks
+
+- [x] Robot Framework
 
 ### Databases
 
@@ -30,7 +52,17 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [ ] mariaDB
 
+### Conteneurisation
 
+- [x] Docker
+
+- [x] Kubernetes
+
+### Automatisation
+
+- [x] Selenium
+
+- [x] pyautogui
 
 ## Agile
 
@@ -45,3 +77,39 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 - [x] JIRA
 
 - [x] Trello
+
+## Gamedev
+
+### Softs
+
+- [ ] Unity
+
+- [x] Godot
+
+- [x] Solar2d
+
+### frameworks tried
+
+- [x] Love2d (lua)
+
+## Connaissances des OS
+
+### FileSystem
+
+- [x] Windows
+
+- [x] Mac
+
+- [x] Linux
+
+### Services
+
+- [x] Windows
+
+- [ ] Mac
+
+- [x] Linux
+
+### Specifics
+
+- [x] Windows registry
