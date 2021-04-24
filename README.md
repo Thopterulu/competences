@@ -24,6 +24,8 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [x] Typescript(--)
 
+- [x] Node.js(--)
+
 ### languages web
 
 - [x] HTML5
@@ -45,6 +47,26 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 ### Php web frameworks
 
 - [x] Symfony
+
+### Gestionnaires de dependences
+
+#### php
+
+- [x] Composer
+
+#### Node.js
+
+- [x] npm
+
+#### MacOS
+
+- [x] Homebrew
+
+#### Python
+
+- [x] pipenv
+
+- [x] pip
 
 ### Databases
 
@@ -120,7 +142,40 @@ liste des competences que j'estime avoir aquis / que je veux aquerir au cours de
 
 - [ ] [kite](https://www.kite.com/)
 
-- [ ] 
+## Versionning (only git)
+
+### platforms
+
+- [x] Github
+
+- [x] Gitlab
+
+- [ ] Bitbucket
+
+### Tools
+
+- [x] CI gitlab
+
+- [x] git pre-commits
+
+## Linting, Code Quality
+
+### Python
+
+- [x] Flake8
+
+- [x] Pylint
+- [x] Prospector
+
+- [ ] Black
+
+- [x] pycodestyle
+
+- [x] pydocstyle
+
+- [ ] pylama
+
+- [ ] bandit
 
 ## Agile
 
